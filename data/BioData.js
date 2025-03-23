@@ -1,21 +1,21 @@
 // date: 1 Aug, 2022
 const bioData = [
     {
-        name: 'nxt lnk',
-        username: 'nxtlnk.vercel.app',
-        url: 'https://nxtlnk.vercel.app',
+        name: 'Eng. Taha Jasim Mohammed',
+        username: 'tjd-xi.vercel.app',
+        url: 'https://tjd-xi.vercel.app/',
         titleImg: true,
-        avatar: '/avatar.png',
+        avatar: 'C:\Users\totoj\OneDrive\Desktop\nxt-lnk-main\public\PhotoRoom-20250322_110724.png',
         nftAvatar: true,
-        description: 'Custom bio links for creatives who love coding. Made this first to use for my own weblinks vjy.me/lnk. ',
+        description: 'Robotic Engineering Student || Junior Graphic Designer || Junior UI/UX Designer || Junior Programmer || MS Office Apps Experts || Interested in Math & Technology || EN/TR/AR Languages Speaker',
         descShow: true,
-        subdesc: 'Use this template and deploy on vercel for free',
+        subdesc: 'Our socialmedia accounts:',
         subdescShow: true,
         newProductUrl: 'https://3dicons.co',
         newProduct: true,
-        author: 'realvjy',
-        authorURL: 'https://twitter.com/realvjy',
-        footerText: 'made by'
+        author: 'Taha`s Website',
+        authorURL: 'https://tjd-xi.vercel.app/',
+        footerText: 'Copyright© 2025 All Rights Reserved for'
     },
 ];
 
