@@ -7,8 +7,7 @@ const bioData = [
         titleImg: true,
         avatar: 'public/PhotoRoom-20250322_110724.png',
         nftAvatar: true,
-        description: 'Robotic Engineering Student || Junior Graphic Designer
-            Junior UI/UX Designer || Junior Programmer || MS Office Apps Experts || Interested in Math & Technology || EN/TR/AR Languages Speaker',
+        description: 'Robotic Engineering Student || Junior Graphic Designer             Junior UI/UX Designer || Junior Programmer || MS Office Apps Experts || Interested in Math & Technology || EN/TR/AR Languages Speaker',
         descShow: true,
         subdesc: 'Our socialmedia accounts:',
         subdescShow: true,
