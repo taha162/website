@@ -69,7 +69,7 @@ const webLinks = [
         url: 'https://mastodon.online/@realvjy',
         type: 'social',
         icon: '/mastodon.svg',
-        on: false
+        on: true
     },
     {
         title: 'Hive Social',
