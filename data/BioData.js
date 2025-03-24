@@ -1,7 +1,7 @@
 // date: 1 Aug, 2022
 const bioData = [
     {
-        name: 'Eng. Taha Jasim Mohammed',
+        name: 'Eng. Taha Jasim',
         username: 'tjd162.vercel.app',
         url: 'https://tjd162.vercel.app/',
         titleImg: false,
