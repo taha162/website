@@ -12,7 +12,7 @@ const bioData = [
         subdesc: 'Our social media accounts:',
         subdescShow: true,
         newProductUrl: 'https://3dicons.co',
-        newProduct: true,
+        newProduct: false,
         author: 'Taha`s Website',
         authorURL: 'https://tjd-xi.vercel.app/',
         footerText: 'Copyright© 2025 All Rights Reserved for'
