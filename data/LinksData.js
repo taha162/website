@@ -59,7 +59,7 @@ const webLinks = [
     },
     {
         title: 'Behance',
-        url: 'https://behance.net/realvjy',
+        url: 'https://www.behance.net/t_j_d_162',
         type: 'social',
         icon: '/behance.svg',
         on: true
