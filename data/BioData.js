@@ -14,7 +14,7 @@ const bioData = [
         newProductUrl: 'https://3dicons.co',
         newProduct: false,
         author: 'Taha`s Website',
-        authorURL: 'https://tjd-xi.vercel.app/',
+        authorURL: 'https://tjd162.vercel.app/',
         footerText: 'Copyright© 2025 All Rights Reserved for'
     },
 ];
