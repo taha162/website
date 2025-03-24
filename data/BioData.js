@@ -2,8 +2,8 @@
 const bioData = [
     {
         name: 'Eng. Taha Jasim Mohammed',
-        username: 'tjd-xi.vercel.app',
-        url: 'https://tjd-xi.vercel.app/',
+        username: 'tjd162.vercel.app',
+        url: 'https://tjd162.vercel.app/',
         titleImg: false,
         avatar: '/avatar.png',
         nftAvatar: true,
