@@ -5,7 +5,7 @@ const bioData = [
         username: 'tjd-xi.vercel.app',
         url: 'https://tjd-xi.vercel.app/',
         titleImg: true,
-        avatar: 'public/PhotoRoom-20250322_110724 (2).jpg',
+        avatar: '/avatar.png',
         nftAvatar: true,
         description: 'Robotic Engineering Student || Junior Graphic Designer || Junior UI/UX Designer || Junior Programmer || MS Office Apps Experts || Interested in Math & Technology || EN/TR/AR Languages Speaker',
         descShow: true,
