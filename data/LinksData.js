@@ -10,7 +10,7 @@ const webLinks = [
     },
     {
         title: 'Linkedin',
-        url: 'https://www.linkedin.com/in/realvjy/',
+        url: 'https://www.linkedin.com/in/tjd162/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app',
         type: 'social',
         icon: '/linkedin.svg',
         on: true
