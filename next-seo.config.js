@@ -11,7 +11,7 @@ export default {
             {
                 width: 1200,
                 height: 630,
-                url: `https://vjy.me/preview.jpg`,
+                url: `https://firebasestorage.googleapis.com/v0/b/messages-chat.appspot.com/o/avatar.png?alt=media&token=74e9b55b-29f4-4122-81f7-023f08631f0f`,
             },
         ],
         site_name: 'Eng. Taha Jasim Mohammed',
