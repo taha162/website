@@ -5,7 +5,7 @@ const bioData = [
         username: 'tjd162.vercel.app',
         url: 'https://tjd162.vercel.app/',
         titleImg: false,
-        avatar: '/avatar.png',
+        avatar: '/Untitled design.jpeg',
         nftAvatar: true,
         description: 'Mechatronics Engineering Student || Junior Graphic Designer || Junior UI/UX Designer || Junior Programmer || MS Office Apps Expert || Interested in Math & Technology || EN/TR/AR Languages Speaker',
         descShow: true,
